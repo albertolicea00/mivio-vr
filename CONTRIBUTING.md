@@ -26,7 +26,7 @@ Open an Issue and include:
 - A clear, descriptive title.
 - Steps to reproduce the bug.
 - What you expected vs. what actually happened.
-- Device model and iOS version.
+- Device model and OS version (e.g. Meta Quest 3, v62).
 - Screenshots or screen recordings if applicable.
 
 ### Code Contributions
@@ -45,8 +45,8 @@ Open an Issue and include:
 5. Push your branch and open a Pull Request targeting **`beta`** (not `main`).
 
 ### Code Style
-- Follow the [C# Unity API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/).
-- Use **C# UnityUI** best practices (unidirectional data flow, state hoisting).
+- Follow the [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions).
+- Use **Unity UI / UI Toolkit** best practices.
 - Follow the existing **MVVM** patterns.
 - Internal code (variable names, comments, commit messages) must be in English.
 
