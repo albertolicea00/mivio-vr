@@ -10,14 +10,16 @@ Designed to replicate the ultimate home theater experience, Mivio VR allows user
 
 ---
 
-## 🎨 Platform-Specific Experience Goals
+## 🎨 Platform Features & Limitations
 
-Mivio VR breaks out of the 2D plane to deliver spatial computing and cinematic immersion:
+Mivio VR breaks out of the 2D plane to deliver spatial computing and cinematic immersion, designed exclusively as a client for your home network:
 
-- **Immersive Environments**: Virtual cinema rooms, void theaters, and pass-through AR modes for watching movies while seeing the real world.
-- **Spatial UI**: Diegetic interfaces, hand-tracking support, and laser-pointer navigation for browsing your network media catalog.
-- **Advanced Playback**: Hardware-accelerated decoding of 2D, 3D (SBS/OU), 180°, and 360° video files natively on the headset.
-- **Local Network Streaming**: Direct SMB and WebDAV implementations built into the Unity environment to pull large video files seamlessly.
+- ❌ **No Local Multi-Account**: Accounts and watch states are managed exclusively by the server.
+- ❌ **No Local Playback from Storage**: By design, Mivio VR operates only as a streaming client to save headset storage space.
+- ✅ **Home Server Client**: Stream your media directly from your home servers (Plex, Jellyfin, Emby).
+- ✅ **Immersive Environments**: Downloadable GLB/FBX/AssetBundles for virtual cinema rooms and void theaters.
+- ✅ **Internal Marketplace**: Community-driven marketplace to upload and download VR environments.
+- ✅ **Native VR Player**: Hardware-accelerated decoding using the native Quest player and ExoPlayer for 2D, 3D (SBS/OU), 180°, and 360° videos.
 
 ---
 
