@@ -1,10 +1,10 @@
 # 🍿 Mivio for Virtual Reality
 
 [![License: Non-Commercial](https://img.shields.io/badge/License-Non_Commercial-red.svg?style=flat-square)](LICENSE)
-[![Platform Compatibility](https://img.shields.io/badge/Platforms-Meta%20Quest%20%7C%20Pico-brightgreen.svg?style=flat-square)](#platform-specific-goals)
+[![Platform Compatibility](https://img.shields.io/badge/Platforms-Meta%20Quest%20%7C%20Pico%20%7C%20HTC%20Vive%20XR-brightgreen.svg?style=flat-square)](#platform-specific-goals)
 [![Unity](https://img.shields.io/badge/Engine-Unity_3D-black.svg?style=flat-square&logo=unity)](https://unity.com/)
 
-**Mivio VR** is a premium, high-performance immersive media management and playback application tailored for standalone Virtual Reality headsets like Meta Quest and Pico. 
+**Mivio VR** is a premium, high-performance immersive media management and playback application tailored for standalone Virtual Reality headsets like Meta Quest, Pico, and HTC Vive XR. 
 
 Designed to replicate the ultimate home theater experience, Mivio VR allows users to sit in a virtual cinema and stream media directly from their local network (SMB/WebDAV), without needing a transcoding server.
 
