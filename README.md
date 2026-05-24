@@ -1,6 +1,6 @@
 # 🍿 Mivio for Virtual Reality
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![License: Non-Commercial](https://img.shields.io/badge/License-Non_Commercial-red.svg?style=flat-square)](LICENSE)
 [![Platform Compatibility](https://img.shields.io/badge/Platforms-Meta%20Quest%20%7C%20Pico-brightgreen.svg?style=flat-square)](#platform-specific-goals)
 [![Unity](https://img.shields.io/badge/Engine-Unity_3D-black.svg?style=flat-square&logo=unity)](https://unity.com/)
 
@@ -49,4 +49,4 @@ Mivio VR breaks out of the 2D plane to deliver spatial computing and cinematic i
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Mivio Source-Available End User License Agreement (EULA)**. Commercial use, monetization, and unauthorized redistribution are strictly prohibited. See the [LICENSE](LICENSE) file for details.
